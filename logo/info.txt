@@ -1,0 +1,27 @@
+﻿<div class="spacer">
+        <div class="imgspacer">
+            <img class="imgspace" src="/Wiki-background2.jpg" alt="">
+           <div class="headings">
+                <div class="texts">
+                <h1>SEE THE LATEST</h1><br>
+
+                <p>To stay on top of your game, keep an eye on the in-game News section. Follow us on<br>
+                     social media for the latest chatter and sneak peeks on what the team is working on.<br>
+                      Don’t be a stranger and join the conversation.<br><br></p>
+
+                   <p style="font-size: 10px;"> FOLLOW CLASH OF CLANS ON</p>
+                    <div class="smlogos">
+                        <img class="spacelogos" src="some_reddit.dbd15d85.webp" alt="">
+                        <img class="spacelogos" src="some_youtube.6b5d0c55.webp" alt="">
+                        <img class="spacelogos" src="some_facebook.49531fac.webp" alt="">
+                        <img class="spacelogos" src="some_instagram.2eaa320b.webp" alt="">
+                        <img class="spacelogos" src="some_twitter.c380be0d.webp" alt="">
+                    </div>
+                </div>
+                    <div class="phonespace">
+                        <img class="phoneimg" src="/bg_gamewebsite_clashofclans.2f177d99.webp" alt="">
+                   </div>
+           </div>
+           
+        </div>
+    </div>
